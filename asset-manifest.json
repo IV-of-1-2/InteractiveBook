@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InteractiveBook/static/css/main.a78d56bc.css",
-    "main.js": "/InteractiveBook/static/js/main.4086a8ed.js",
+    "main.css": "/InteractiveBook/static/css/main.db2a03bd.css",
+    "main.js": "/InteractiveBook/static/js/main.c14d4691.js",
     "static/js/453.7ce73f9e.chunk.js": "/InteractiveBook/static/js/453.7ce73f9e.chunk.js",
     "static/media/scene8.gif": "/InteractiveBook/static/media/scene8.e04e584d79eac1ef1b8b.gif",
     "static/media/scene-5.gif": "/InteractiveBook/static/media/scene-5.07ef18e8db18f1137297.gif",
@@ -43,12 +43,12 @@
     "static/media/bootstrap-icons.woff?": "/InteractiveBook/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/InteractiveBook/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/InteractiveBook/index.html",
-    "main.a78d56bc.css.map": "/InteractiveBook/static/css/main.a78d56bc.css.map",
-    "main.4086a8ed.js.map": "/InteractiveBook/static/js/main.4086a8ed.js.map",
+    "main.db2a03bd.css.map": "/InteractiveBook/static/css/main.db2a03bd.css.map",
+    "main.c14d4691.js.map": "/InteractiveBook/static/js/main.c14d4691.js.map",
     "453.7ce73f9e.chunk.js.map": "/InteractiveBook/static/js/453.7ce73f9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a78d56bc.css",
-    "static/js/main.4086a8ed.js"
+    "static/css/main.db2a03bd.css",
+    "static/js/main.c14d4691.js"
   ]
 }
