@@ -1,0 +1,9 @@
+{
+    "short_name": "Interactive Book",
+    "name": "Interactive Book",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
