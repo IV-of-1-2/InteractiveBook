@@ -1,7 +1,28 @@
 {
-    "short_name": "Interactive Book",
-    "name": "Interactive Book",
-    "icons": [],
+    "short_name": "Libro: Interactive Book",
+    "name": "Libro: Interactive Book",
+    "icons": [
+        {
+            "src": "website-logo.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "website-logo.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "website-logo.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "website-logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
     "start_url": "/InteractiveBook/",
     "display": "standalone",
     "theme_color": "#000000",
